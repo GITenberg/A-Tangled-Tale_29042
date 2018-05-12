@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7
     wikipedia: https://en.wikipedia.org/wiki/Lewis_Carroll
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29042#A-Tangled-Tale
 gutenberg_bookshelf: Mathematics
 gutenberg_issued: '2009-06-05'
 gutenberg_type: Text
