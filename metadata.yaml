@@ -1,0 +1,40 @@
+_repo: A-Tangled-Tale_29042
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Frost, A. B. (Arthur Burdett)
+    alias: Frost, Arthur Burdett
+    birthdate: 1851
+    deathdate: 1928
+    gutenberg_agent_id: '24799'
+    url: http://www.gutenberg.org/2009/agents/24799
+    wikipedia: http://en.wikipedia.org/wiki/A._B._Frost
+covers:
+- cover_type: archival
+  image_path: 29042-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Carroll, Lewis
+    alias: Dodgson, Charles Lutwidge
+    birthdate: 1832
+    deathdate: 1898
+    gutenberg_agent_id: '7'
+    url: http://www.gutenberg.org/2009/agents/7
+    wikipedia: https://en.wikipedia.org/wiki/Lewis_Carroll
+description: ''
+gutenberg_bookshelf: Mathematics
+gutenberg_issued: '2009-06-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29042'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Mathematical recreations'
+- !lcc 'QA'
+- !lcc 'PZ'
+title: A Tangled Tale
+url: http://www.gutenberg.org/ebooks/29042
